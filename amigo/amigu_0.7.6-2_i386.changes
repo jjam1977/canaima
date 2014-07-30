@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Tue, 19 Feb 2013 10:36:13 -0430
+Source: amigu
+Binary: amigu
+Architecture: source i386
+Version: 0.7.6-2
+Distribution: unstable
+Urgency: low
+Maintainer: Equipo de  Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
+Changed-By: Erick Birbe <erickcion@gmail.com>
+Description: 
+ amigu      - Asistente de migracion a Canaima
+Changes: 
+ amigu (0.7.6-2) unstable; urgency=low
+ .
+   * [6d171ec] Removiendo carpeta debian para limpiar rama upstream
+   * [3e28810] Añadiendo carpeta debian/ en rama master para empaquetado
+   * [cc5b260] Update changelog for 0.7.6-2 release
+Checksums-Sha1: 
+ 5b92e4e596d3368379a13fdc2cc9b9fd947c26fa 1187 amigu_0.7.6-2.dsc
+ a9e665be979796f6343ef68463c2e99caf7b9c6e 6285 amigu_0.7.6-2.debian.tar.gz
+ 24e6e9824be844ed74d715e2eef6c977281f27d3 379100 amigu_0.7.6-2_i386.deb
+Checksums-Sha256: 
+ c05654e22e7def6f6866f1afa4c679834ce30a80ef7067b95f673eb6759fca31 1187 amigu_0.7.6-2.dsc
+ a8bb8b797f823f5380a5340b66a152d14ca1a75ae88d92961c106a4bb5e05c9b 6285 amigu_0.7.6-2.debian.tar.gz
+ 4b37aa697e1417ec75d999a65d95728bb44f942819c0ced5486b624a73e86a70 379100 amigu_0.7.6-2_i386.deb
+Files: 
+ ddc41185092b68fd9edf4bd1f199884c 1187 utils extra amigu_0.7.6-2.dsc
+ de49789adca372aa4cd13654ae1c8549 6285 utils extra amigu_0.7.6-2.debian.tar.gz
+ 3de6eadde9e2b860b32a7703ec686313 379100 utils extra amigu_0.7.6-2_i386.deb
